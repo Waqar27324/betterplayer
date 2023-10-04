@@ -225,10 +225,10 @@ packages:
     dependency: transitive
     description:
       name: petitparser
-      sha256: b1e35bcd00e0ab63a4883d7d76461da7477dcac3ab82fa0ab894be729d579032
+      sha256: cb3798bef7fc021ac45b308f4b51208a152792445cce0448c9a4ba5879dd8750
       url: "https://pub.dev"
     source: hosted
-    version: "4.3.0"
+    version: "5.4.0"
   platform:
     dependency: transitive
     description:
@@ -390,10 +390,10 @@ packages:
     dependency: "direct main"
     description:
       name: xml
-      sha256: baa23bcba1ba4ce4b22c0c7a1d9c861e7015cb5169512676da0b85138e72840c
+      sha256: "5bc72e1e45e941d825fd7468b9b4cc3b9327942649aeb6fc5cdbf135f0a86e84"
       url: "https://pub.dev"
     source: hosted
-    version: "5.3.1"
+    version: "6.3.0"
 sdks:
   dart: ">=3.1.0-185.0.dev <4.0.0"
   flutter: ">=3.7.0"
